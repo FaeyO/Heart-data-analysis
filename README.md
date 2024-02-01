@@ -15,7 +15,7 @@
 Heart data analysis involves the examination and interpretation of data related to heart health and cardiovascular conditions. This field encompasses various aspects, including medical research, clinical studies, and health monitoring.Heart data analysis often involves monitoring physiological parameters related to heart health, such as heart rate, blood pressure, and electrocardiogram (ECG) readings. It helps in assessing an individual's risk of developing cardiovascular diseases. This risk assessment can guide healthcare professionals in creating personalized prevention and intervention strategies.
 
 ### Tools
- - My SQL workbench
+ - My SQL Workbench
  - Python - Data Analysis
  - Matplotlib - For Data Visualizations
  - Seaborn - For Data Visualizations
@@ -32,7 +32,7 @@ In the data preparation phase, i performed the following tasks;
 4. Handling Missing Values
 
 ### Exploratory Data Analysis
-EDA involved exploring the Patient Sleep Disorder Data to answer key questions such as;
+EDA involved exploring the Patient Heart Data to answer key questions such as;
 
  - Generate a categorical variable with age.
  - Exploratory analysis of the data.
